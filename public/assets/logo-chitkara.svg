@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#E21B23" rx="16"/>
+  <!-- Inner Square -->
+  <rect x="48" y="112" width="40" height="40" fill="#FFFFFF"/>
+  <!-- Middle L -->
+  <path d="M48 76 h64 v76 h-24 v-52 h-40 z" fill="#FFFFFF"/>
+  <!-- Outer L -->
+  <path d="M48 40 h104 v112 h-24 v-88 h-80 z" fill="#FFFFFF"/>
+</svg>
